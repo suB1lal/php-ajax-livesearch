@@ -1,6 +1,6 @@
 # Php Ajax Live Search
 
-#Php ve ajac kullanarak veritabanından anlık olarak veri çekerek kullanıcılara limitli şekilde göstermiş olduğum projem
+## Php ve ajac kullanarak veritabanından anlık olarak veri çekerek kullanıcılara limitli şekilde göstermiş olduğum projem
 
 
 
